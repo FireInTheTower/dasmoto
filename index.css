@@ -1,0 +1,58 @@
+.banner {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+.brushes_subhead {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    background-color: mediumspringgreen;
+}
+
+.frames_subhead {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    background-color: lightcoral;
+}
+
+.paint_subhead {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    background-color: skyblue;
+}
+
+p {
+    font-family: Helvetica;
+    color: black;
+    text-align: left;
+}
+
+.section_title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bluebold {
+    color: blue;
+    font-weight: bold;
+}
+
+/* Can add margins and padding to all elements:
+* {
+    margin: XXpx;
+    padding: .XXpx;
+}
+*/ 
